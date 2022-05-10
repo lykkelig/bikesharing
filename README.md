@@ -38,6 +38,35 @@ User Type
 * [Atomic:] The last page in the story with one visual, "Popularity of Start Stations", shows that most of the bike trips are made 
             in the borough of Manhattan.           
 
+* [Atomic:] These are the URL's for the graphs that were required for this assignment.  
+
+Checkout Time for Users
+https://public.tableau.com/app/profile/ron.hankey/viz/Bike-Trip-Analysis-Checkout-Time-for-Users/CheckoutTimeforUsers?publish=yes
+
+Checkout Time by Gender
+https://public.tableau.com/app/profile/ron.hankey/viz/Bike-Trip-Analysis-Checkout-Time-by-Gender/CheckoutTimesbyGender?publish=yes
+
+Trips by Weekday per Hour
+https://public.tableau.com/app/profile/ron.hankey/viz/Bike-Trip-Analysis-Trips-by-Weekday-per-Hour/TripsbyWeekdayperHour?publish=yes
+
+Trips by Gender
+https://public.tableau.com/app/profile/ron.hankey/viz/Bike-Trip-Analysis-Trips-by-Gender/TripsbyGender?publish=yes
+
+User Trips by Gender by Weekday
+https://public.tableau.com/app/profile/ron.hankey/viz/Bike-Trip-Analysis-User-Trips-by-Gender-by-Weekday/UserTripsbyGenderbyWeekday?publish=yes
+
+Popularity of Start Stations
+https://public.tableau.com/app/profile/ron.hankey/viz/Bike-Trip-Analysis-Popularity-of-Start-Locations/PopularityofStartLocations?publish=yes
+
+Popularity of End Stations
+https://public.tableau.com/app/profile/ron.hankey/viz/Bike-Trip-Analysis-Popularity-of-End-Stations/PopularityofEndStations?publish=yes
+
+Dashboard
+https://public.tableau.com/app/profile/ron.hankey/viz/Bike-Trip-Analysis-Dashboard/Dashboard2?publish=yes
+
+Story
+https://public.tableau.com/app/profile/ron.hankey/viz/Bike-Trip-Analysis-Story/TripStory?publish=yes
+
 
 ## Summary  Can data from New York City be applied to Des Moines?
 * [Atomic:] In order for the data to be useful for consideration in Des Moines, additional data elements would need to be applied.
